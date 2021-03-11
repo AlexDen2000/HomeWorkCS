@@ -32,6 +32,6 @@
 *.app
 
 *.sln
-Homework/bin/
-Homework/obj/
-ggg/
+bin/
+obj/
+Properties/
