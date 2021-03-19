@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HomeWorkCS
+namespace task_2
 {
     class Program
     {
